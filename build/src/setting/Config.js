@@ -17,9 +17,9 @@ export default class OrasConfig extends Object {
     constructor() {
         super();
         this.token =
-            "MTIwMzY0NjYxOTUyMjgzNDQ1Mg.GbrzLM.eDyqsxDeQoP47aQc8cFted8eThVArHwQrrKQ38";
-        this.botid = "1203646619522834452"
-        this.prefix = ".";
+            "MTIyMDM1MjI2NDc1MzkwOTgxMA.GdCNCG.8XuLC4iN-uBSyi-rJqeTjT_QAb5oyUB5dOj5Gk";
+        this.botid = "1220352264753909810"
+        this.prefix = "-";
         this.nodes = [
             {
                 name: `Kronix`,
@@ -45,7 +45,7 @@ export default class OrasConfig extends Object {
         this.botinvite = `https://discord.com/api/oauth2/authorize?client_id=1203646619522834452&permissions=8&scope=bot+applications.commands`;
         this.spotiId = "731ac5bf0603411f80ac446f5c02e290";
         this.spotiSecret = "cd16a34c385b4fa5915abd596fd4e480";
-        this.owners = ["1173547185758015498"];
+        this.owners = ["1152704483231543379"];
         this.color = "#45FFCA";
         this.supportId = "1173554067910438912"; //Server Id
         this.spotiNodes = [
